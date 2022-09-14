@@ -1,4 +1,5 @@
 {
+  "map": {
   "type": "FeatureCollection",
   "features": [
     {
@@ -34,4 +35,5 @@
       }
     }
   ]
+    }
 }
