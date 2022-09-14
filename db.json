@@ -1,37 +1,11 @@
 {
-  "type": "FeatureCollection",
-  "features": [
+  "posts": [
     {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#1c973a",
-        "marker-size": "small",
-        "marker-symbol": "cross",
-        "marker-text": "hojla"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.082900762557983,
-          46.832526518249864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#1c973a",
-        "marker-size": "small",
-        "marker-symbol": "cross",
-        "marker-text": "hojla"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.084156036376953,
-          46.83296691359897
-        ]
-      }
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
